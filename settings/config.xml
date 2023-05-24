@@ -15,7 +15,7 @@
 <config version="1.0" htmlParse="false">
 
   <!-- title of the study -->
-  <item id="studyTitle">Name of your study</item>
+  <item id="studyTitle">Family Resilience Qstudy</item>
 
   <!-- text-align property(left|right) -->
   <item id="textAlign">left</item>
@@ -35,10 +35,10 @@
   <!-- activate/deactivate optional steps (true|false) -->
   <item id="showStep3">true</item>
   <item id="showStep4">true</item>
-  <item id="showStep5">true</item>
+  <item id="showStep5">false</item>
 
   <!-- HtmlQ only: disable the in-window back button -->
-  <item id="disableBackButton">true</item>
+  <item id="disableBackButton">false</item>
 
   <!-- define form elements for step5; only displayed if showStep5 is true (delete tags if not required) -->
   <!-- add label: <label>[STRING]</label> -->
@@ -70,10 +70,10 @@
   </item>
 
   <!-- URL for data transmission via POST/GET (leave blank if not required) -->
-  <item id="submitUrl">exe.php?do=save</item>
+  <item id="submitUrl"></item>
   <!-- request mode (post|get) -->
   <item id="submitUrlMethod">post</item>
 
   <!-- data transmission via email, user must have an e-mail programm like Outlook (leave blank if not required) -->
-  <item id="submitMail">yourdomain.com</item>
+  <item id="submitMail">sp101@iu.edu</item>
  </config>
