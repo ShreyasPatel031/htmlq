@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+// 
+// This is the place for your statements. The maximum 
+// number of statements is theoretically unlimited, but
+// less then 50 statements are advisable.
+// If your are using German Umlauts and other special 
+// characters, make sure, that you save this XML-file 
+// as an UTF-8-document. White-space inbetween the 
+// nodes are ignored. Any white-space within the text-
+// nodes, including leading or trailing whitespace and 
+// line breaks, is preserved.
+//
+// EXAMPLE
+// Let's define some statements concerning FlashQ:
+// Statement 1: FlashQ is very usefull.
+// Statement 2: I prefer offline surveys.
+// Statement 3: FlashQ is too complicated to configure.
+//
+// Each statement requires a seperate statement-node 
+// consisting out of an opening and a closing tag. The 
+// statement itself goes between this two tags. 
+// The unique statement id is saved as an 
+// attribute called 'id'. We have three exmaple 
+// statements and we need therefore three statement-
+// nodes and one parent-node. 
+//
+// <statements version="1.0" htmlparse="false">
+//   <statement id="1">FlashQ is very usefull.</statement>
+//   <statement id="2">I prefer offline surveys.</statement>
+//   <statement id="3">FlashQ is too complicated to configure</statement>
+// </statements>
+// 
+// ===================================================
+// 
+-->
+
+<statements version="1.0" htmlParse="false">
+  <statement id="0">MC-p: Alerts and reminders for visits and appointments would be helpful for my family.</statement>
+<statement id="1">MC-n: I am concerned about potential issues with AI-based recommendations for managing family tasks.</statement>
+<statement id="2">MC-p: Shared to-do lists with priorities would be useful for managing tasks in my family.</statement>
+<statement id="3">MC-n: I am concerned about potential issues with using a list of pre-defined tasks within my family to complete.</statement>
+<statement id="4">I-p: Syncing medical data and calendar on the cloud across devices would be beneficial for my family.</statement>
+<statement id="5">I-n: I am concerned about potential difficulties in communicating using text message channels.</statement>
+<statement id="6">I-p: A collaborative tracker for tracking symptoms and medicines would be helpful for my family.</statement>
+<statement id="7">I-n: I am concerned about potential issues with generating updates and summaries from the content of audio calls and messages.</statement>
+<statement id="8">MA-p: A list of predefined accommodation options would be helpful for my family.</statement>
+<statement id="9">MA-n: I am concerned about potential issues with using an AI Finance Management tool for tracking expenses.</statement>
+<statement id="10">MA-p: AI Finance management tool recommendations would be useful for managing my family's finances.</statement>
+<statement id="11">MA-n: I am concerned about potential difficulties with using AI-generated recommendations for finance management.</statement>
+<statement id="12">ME-p: Shared family collaborative activities would be beneficial for my family.</statement>
+<statement id="13">ME-n: I am concerned about potential challenges with setting milestones in the treatment process and celebrating virtually.</statement>
+<statement id="14">ME-p: Reflecting on our mental health using a digital journal would be helpful for my family.</statement>
+<statement id="15">ME-n: I am concerned about potential issues with achieving mindfulness through random positive affirmations throughout the day.</statement>
+<statement id="16">E-p: Sharing happy memories with family members would be beneficial for my family.</statement>
+<statement id="17">E-n: I am concerned about potential difficulties in coping with emotions and staying resilient through a psychologist's advice.</statement>
+<statement id="18">E-p: FAQs and tips for navigating emotional struggles would be helpful for my family.</statement>
+<statement id="19">E-n: I am concerned about potential issues with sharing negative feelings with a close friend or family member for advice or companionship.</statement>
+</statements>
