@@ -37,24 +37,24 @@
 -->
 
 <statements version="1.0" htmlParse="false">
-  <statement id="0">MC-p: Alerts and reminders for visits and appointments would be helpful for my family.</statement>
-<statement id="1">MC-n: I am concerned about potential issues with AI-based recommendations for managing family tasks.</statement>
-<statement id="2">MC-p: Shared to-do lists with priorities would be useful for managing tasks in my family.</statement>
-<statement id="3">MC-n: I am concerned about potential issues with using a list of pre-defined tasks within my family to complete.</statement>
-<statement id="4">I-p: Syncing medical data and calendar on the cloud across devices would be beneficial for my family.</statement>
-<statement id="5">I-n: I am concerned about potential difficulties in communicating using text message channels.</statement>
-<statement id="6">I-p: A collaborative tracker for tracking symptoms and medicines would be helpful for my family.</statement>
-<statement id="7">I-n: I am concerned about potential issues with generating updates and summaries from the content of audio calls and messages.</statement>
-<statement id="8">MA-p: A list of predefined accommodation options would be helpful for my family.</statement>
-<statement id="9">MA-n: I am concerned about potential issues with using an AI Finance Management tool for tracking expenses.</statement>
-<statement id="10">MA-p: AI Finance management tool recommendations would be useful for managing my family's finances.</statement>
-<statement id="11">MA-n: I am concerned about potential difficulties with using AI-generated recommendations for finance management.</statement>
-<statement id="12">ME-p: Shared family collaborative activities would be beneficial for my family.</statement>
-<statement id="13">ME-n: I am concerned about potential challenges with setting milestones in the treatment process and celebrating virtually.</statement>
-<statement id="14">ME-p: Reflecting on our mental health using a digital journal would be helpful for my family.</statement>
-<statement id="15">ME-n: I am concerned about potential issues with achieving mindfulness through random positive affirmations throughout the day.</statement>
-<statement id="16">E-p: Sharing happy memories with family members would be beneficial for my family.</statement>
-<statement id="17">E-n: I am concerned about potential difficulties in coping with emotions and staying resilient through a psychologist's advice.</statement>
-<statement id="18">E-p: FAQs and tips for navigating emotional struggles would be helpful for my family.</statement>
-<statement id="19">E-n: I am concerned about potential issues with sharing negative feelings with a close friend or family member for advice or companionship.</statement>
+<statement id="0">Implementing shared tools, like calendars or to-do lists, would greatly enhance our family's coordination and task management.</statement>
+<statement id="1">The synchronization of medical data and calendars across devices would significantly improve our family's care coordination.</statement>
+<statement id="2">The option for predefined accommodations would simplify the process of finding suitable living arrangements during treatment.</statement>
+<statement id="3">Regularly participating in shared family collaborative activities would enhance our family unity and morale.</statement>
+<statement id="4">Utilizing predefined tasks for our family would streamline our daily routines and responsibilities.</statement>
+<statement id="5">Reflecting on our mental health through tools like digital journals would promote self-awareness and emotional resilience in our family.</statement>
+<statement id="6">Utilizing text message channels would boost our communication efficiency and timeliness.</statement>
+<statement id="7">Using finance management tools would help us to better control our financial situation.</statement>
+<statement id="8">Depending too heavily on shared tools, like calendars or to-do lists, could create dependency and reduce our flexibility.</statement>
+<statement id="9">Regularly sharing happy memories with family members would help us cope better with emotional struggles.</statement>
+<statement id="10">Depending too heavily on shared tools, like calendars or to-do lists, could create dependency and reduce our flexibility.</statement>
+<statement id="11">Relying on automated synchronization of medical data and calendars might lead to unintentional errors or omissions.</statement>
+<statement id="12">Over-reliance on predefined accommodation options might limit our ability to find the best suited housing solution.</statement>
+<statement id="13">If the shared family activities do not cater to everyone's interest, it could potentially lead to disengagement.</statement>
+<statement id="14">Relying on tools like digital journals for mental health reflection might not provide the depth of understanding achieved through personal communication.</statement>
+<statement id="15">Relying on predefined tasks for our family might not accommodate our unique, evolving needs.</statement>
+<statement id="16">Over-reliance on text messaging as a communication channel could potentially lead to miscommunications or overlooked messages.</statement>
+<statement id="17">Depending on finance management tools could cause us to overlook important personal financial details.</statement>
+<statement id="18">Celebrating treatment milestones virtually might not provide the same emotional impact as in-person celebrations.</statement>
+<statement id="19">Sharing negative feelings regularly could potentially lead to a negative emotional atmosphere within the family.</statement>
 </statements>
